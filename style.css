@@ -1,0 +1,21 @@
+.path {
+  fill: transparent;
+   stroke: #ddd;
+  stroke-width: 0.5px;
+}
+
+.dot {
+  fill: steelblue;
+  stroke: grey;
+  stroke-width: 1px;
+}
+
+.area {
+  fill: steelblue;
+  fill-opacity: 0.1;
+  stroke: #eee;
+  stroke-width: 10px;
+}
+.area:hover {
+  fill-opacity: 0.2;
+}
